@@ -2,7 +2,7 @@
 Address Normalization Challenge Submission by Team Red Ross
 
 ## Our Solution
-Our solution basically involves using two publicly available APIs for the purpose of geocoding the given address and getting the details about the state, locality and city directly from the pincode. We have run our code on 150 examples of the given address due to limits in API and processing capabilities from our end. 
+Our solution basically involves using two publicly available APIs for the purpose of geocoding the given address and getting the details about the state, locality and city directly from the pincode. We have run our code on 150 examples of the given address due to limits in API and processing capabilities from our end. The generated JSON file is named final_addresses.json, whcich has been generated from the first 150 examples. 
 
 ## APIs Used
 - Position Stack -> This API is used for getting the gecodes from a given address. 
