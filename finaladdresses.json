@@ -1,0 +1,1359 @@
+{
+  "addresses": [
+    {
+      "addressline1": "# T-90834 Thrishika nilaya suvarana Nagar near G.M",
+      "addressline2": "cottage doddabidarakallu Nagasandra Post opp- byraveshwara floor mill",
+      "locality": "Bagalgunte",
+      "city": "Bangalore West",
+      "state": "Karnataka",
+      "pincode": "560073",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "# T-90224 Nanda Gokula 7th Cross ",
+      "addressline2": "Telecom layout jakkur Road near SBI ATM",
+      "locality": "Doddagubbi",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560077",
+      "geocodes": "14.66667,75.83333"
+    },
+    {
+      "addressline1": "# T-90323 floo r avs paradise 3rd main ",
+      "addressline2": "samrudhi layout gowdanapalya uttarahali near iscon convention center",
+      "locality": "J P Nagar",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560078",
+      "geocodes": "13.08308,77.54619"
+    },
+    {
+      "addressline1": "# T-90351 main Sanmarga road 10th main Sanmarga roadSiddhartha nagar ",
+      "addressline2": "mysore 570011 Av hospital and near to vaishali convent",
+      "locality": "Vidyaranyapura",
+      "city": "Bangalore West",
+      "state": "Karnataka",
+      "pincode": "560097",
+      "geocodes": "12.913367,77.604114"
+    },
+    {
+      "addressline1": "# T-90613 Pallava terrace apartment wing A",
+      "addressline2": "6th block yediyur Jayanagar opposite yediyur lack",
+      "locality": "Bolare",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560082",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "# T-90750 floor 1st cross RHA baazar street ",
+      "addressline2": "Gowtham pura Ulsoor Gowtham pura BBMP hall",
+      "locality": "Bangalore ",
+      "city": "Bangalore GPO",
+      "state": "Karnataka",
+      "pincode": "560001",
+      "geocodes": "14.66667,75.83333"
+    },
+    {
+      "addressline1": "#00T-90457 Aakruthi nilaya ashwathnarayana layout 7th cross 3rd floor puttenhalli ",
+      "addressline2": "j p nagar 7th phase near jain public school",
+      "locality": "Doddakallasandra",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560062",
+      "geocodes": "22.727216,75.869458"
+    },
+    {
+      "addressline1": "#0T-90440 bajjappa building kambaiah road ",
+      "addressline2": "mts colony Max computer",
+      "locality": "Vasanthnagar",
+      "city": "Bangalore North",
+      "state": "Karnataka",
+      "pincode": "560052",
+      "geocodes": "-28.033594,153.382151"
+    },
+    {
+      "addressline1": "#16-2-118&M02938 Opp Metro water works, ",
+      "addressline2": "Hydernagar Beside nexa Showroom",
+      "locality": "Kukatpally",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500072",
+      "geocodes": "17.83333,79.08333"
+    },
+    {
+      "addressline1": "#2&T-90327 No. 11/2 Nakshathra Sahakaranagara Post ",
+      "addressline2": "Jakkur Main Road Next to Parisara Flying View",
+      "locality": "Amruthahalli",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560092",
+      "geocodes": "17.83333,79.08333"
+    },
+    {
+      "addressline1": "#A31395 aster 2, vallabh nagar, near s t ",
+      "addressline2": "bus stand, pimpri vallabh nagar pimpri",
+      "locality": "Kasba Peth",
+      "city": "Pune City West",
+      "state": "Maharashtra",
+      "pincode": "411011",
+      "geocodes": "19.119332,72.875877"
+    },
+    {
+      "addressline1": "#A32115 floor, Kumar Palm Meadows Society",
+      "addressline2": "Pisoli, kondhwa budruk Opposite Trendz Furniture",
+      "locality": "Khondhwa KH",
+      "city": "Pune City East",
+      "state": "Maharashtra",
+      "pincode": "411048",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "#DH103337 Rustomjee Ease Zone Mall Opposite Rustomjee ",
+      "addressline2": "Ozone Tower Vasari Hill Road ",
+      "city": "Pune City East",
+      "pincode": "ashtra",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#DH103538 Falcon Castle Orbit Tower",
+      "addressline2": "Elphinstone Next to One Indiabulls",
+      "locality": "BEST STaff Quarters",
+      "city": "Mumbai  East",
+      "state": "Maharashtra",
+      "pincode": "400012",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#M02931 Hill view appartments mj",
+      "addressline2": "colony opp kushaiguda bus depot",
+      "locality": "Dr As Rao Nagar",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500062",
+      "geocodes": "51.189483,5.980786"
+    },
+    {
+      "addressline1": "#M02932 plot no-1-2-33, srinivasam aparts, prashant",
+      "addressline2": "nagar, nizampet road near meridian enclave",
+      "locality": "Kukatpally",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500072",
+      "geocodes": "13.000026,77.534914"
+    },
+    {
+      "addressline1": "#M02933 Sree geethika elegance kausalya colony,",
+      "addressline2": "bachupally Near surya the global school",
+      "locality": "Mathrusri Nagar",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500049",
+      "geocodes": "12.97194,77.59369"
+    },
+    {
+      "addressline1": "#M02935 old mig near pochamma temple, Hyderabad ",
+      "addressline2": "old mig lingampalli near pochamma temple Hyderabad",
+      "locality": "Gachibowli",
+      "city": "Hyderabad City",
+      "state": "Telangana",
+      "pincode": "500032",
+      "geocodes": "12.97194,77.59369"
+    },
+    {
+      "addressline1": "#M02936 Riddhis Lakeview, road no.13, sai Aishwarya layout, khajaguda, manikonda, riddhis lakeview apartment ",
+      "addressline2": "road no 13, sai aishwarya layout near sai baba temple Hyderabad",
+      "locality": "Gachibowli",
+      "city": "Hyderabad City",
+      "state": "Telangana",
+      "pincode": "500032",
+      "geocodes": "12.916431,77.478809"
+    },
+    {
+      "addressline1": "#M02937 Residency, 1st Right Lane Eshwar Villas ",
+      "addressline2": "Road, Nizampet Near Karur Vysya Bank",
+      "locality": "Kukatpally",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500072",
+      "geocodes": "12.97194,77.59369"
+    },
+    {
+      "addressline1": "#M02939 JVR Vaishavi towers. Spring fields",
+      "addressline2": "colony, Jeedimetla village. Behind OM books",
+      "locality": "Hakimpet",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500014",
+      "geocodes": "14.66667,75.83333"
+    },
+    {
+      "addressline1": "#M02940 urban nest anjaiah nagar, gachibowli, Hyderabad",
+      "addressline2": "500-084 anjaiah nagar . opposite to SLN Terminus",
+      "locality": "Kondapur",
+      "city": "Hyderabad City",
+      "state": "Telangana",
+      "pincode": "500084",
+      "geocodes": "14.882195,75.57454"
+    },
+    {
+      "addressline1": "#T-90201 moksh villa 1st cross",
+      "addressline2": "osborne road behind lavanya theatre",
+      "locality": "Jayanagar",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560041",
+      "geocodes": "12.893784,77.558542"
+    },
+    {
+      "addressline1": "#T-90203 floor lbs nagar ",
+      "addressline2": "indiranagar KBL ATM",
+      "locality": "Doddanekkundi",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560037",
+      "geocodes": "12.880977,77.545756"
+    },
+    {
+      "addressline1": "#T-90206 sri Maruthi nilaya 1st cross Navya ",
+      "addressline2": "nagar jakkur extn bengaluru Andra bank",
+      "locality": "Amruthahalli",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560092",
+      "geocodes": "14.882195,75.57454"
+    },
+    {
+      "addressline1": "#T-90211 24thcross 6thblock jayanagar",
+      "addressline2": "jayanagar opp police quaters",
+      "locality": "Bolare",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560082",
+      "geocodes": "12.986535,77.725006"
+    },
+    {
+      "addressline1": "#T-90215 ground floor #1 ground floor ECI church ",
+      "addressline2": "street shampur main road near ambedkar medical college ",
+      "locality": "Lingarajapuram",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560084",
+      "geocodes": "28.612793,77.306193"
+    },
+    {
+      "addressline1": "#T-90237 main 1st cross",
+      "addressline2": "rukmini nagar.nagasandra post mrp bar",
+      "locality": "J P Nagar",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560078",
+      "geocodes": "14.66667,75.83333"
+    },
+    {
+      "addressline1": "#T-90238 ganesha parvati 19 cross 2nd block ",
+      "addressline2": "nagadevanahali gnanabharati Layout shivakumara swamiji kalyanamat",
+      "locality": "Bnagalore Viswavidalaya",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560056",
+      "geocodes": "14.66667,75.83333"
+    },
+    {
+      "addressline1": "#T-90242 main 3rd cross sarakki gate ",
+      "addressline2": "kanakapura main road banashankari umarbagh layout",
+      "locality": "Bannerghatta Road",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560076",
+      "geocodes": "14.882195,75.57454"
+    },
+    {
+      "addressline1": "#T-90251 Mahaveer cornet apartment kengeri ",
+      "addressline2": "satellite town Near Church",
+      "locality": "Chudenapura",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560060",
+      "geocodes": "13.174481,78.411307"
+    },
+    {
+      "addressline1": "#T-90256 Byrappa house 14th Main JP",
+      "addressline2": "Nagar 1st Phase Near mahalakshmi lotus appartm",
+      "locality": "Begur",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560068",
+      "geocodes": "14.882195,75.57454"
+    },
+    {
+      "addressline1": "#T-90266 Shanthi Marimuthu Nilaya 6th cross Anandapuram",
+      "addressline2": "New Thippasandra Post Near Sri Balamurugan Temple",
+      "locality": "J P Nagar",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560078",
+      "geocodes": "14.882195,75.57454"
+    },
+    {
+      "addressline1": "#T-90267 Main Rd Srikanteshwara Nagar Mahalakshmi Layout 6th ",
+      "addressline2": "Main Road Srikanteshwara Nagar Mahalakshmi Layout",
+      "locality": "Nandinilayout",
+      "city": "Bangalore West",
+      "state": "Karnataka",
+      "pincode": "560096",
+      "geocodes": "14.66667,75.83333"
+    },
+    {
+      "addressline1": "#T-90272 Radhakrishna main road Mines and Geology layout ",
+      "addressline2": "Radhakrishna main road opposite to vishal mart",
+      "locality": "Bnagalore Viswavidalaya",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560056",
+      "geocodes": "14.66667,75.83333"
+    },
+    {
+      "addressline1": "#T-90276 B.G Nagaraja reddy 17 Arkavathy layout ",
+      "addressline2": "off Hennur road near prisha badminton academy",
+      "locality": "Agara",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560034",
+      "geocodes": "12.886053,77.590889"
+    },
+    {
+      "addressline1": "#T-90282 flor 16th cross 1st D main road ",
+      "addressline2": "Kengeri upanagara 1st D main road Kengeri upanag",
+      "locality": "Chudenapura",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560060",
+      "geocodes": "14.882195,75.57454"
+    },
+    {
+      "addressline1": "#T-90290 B.G Nagaraja reddy 17 Arkavathy layout ",
+      "addressline2": "off Hennur road near prisha badminton academy",
+      "locality": "Agara",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560034",
+      "geocodes": "14.882195,75.57454"
+    },
+    {
+      "addressline1": "#T-90299 rahima b manzil 1st",
+      "addressline2": "main 2nd cross yeswanthpur bombaydeing",
+      "locality": "P&T Col. Kavalbyrasandra",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560032",
+      "geocodes": "12.941193,77.583916"
+    },
+    {
+      "addressline1": "#T-90309 Gitanjali Elegancy 6th ",
+      "addressline2": "Cross Kaggadasapura",
+      "locality": "Doddanekkundi",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560037",
+      "geocodes": "50.774347,15.081735"
+    },
+    {
+      "addressline1": "#T-90312 main road Jyothinagar mysore ",
+      "addressline2": "road behind nayandhalli metro stn",
+      "locality": "Nayandahalli",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560039",
+      "geocodes": "14.882195,75.57454"
+    },
+    {
+      "addressline1": "#T-90316 Ester green layout Sinai Avenue ",
+      "addressline2": "Kada agrahara Sinai Avenue maruthi vidyalaya school",
+      "locality": "Doddagubbi",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560077",
+      "geocodes": "12.91623,77.61017"
+    },
+    {
+      "addressline1": "#T-90326 Gracious 1 main road sunrise ",
+      "addressline2": "layout Yelachanahalli banglore millet store",
+      "locality": "Doddakallasandra",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560062",
+      "geocodes": "14.882195,75.57454"
+    },
+    {
+      "addressline1": "#T-90337 Nele Palm Spring Layout Gubbalala Main Road Near Kanakapura Road Landmark : ",
+      "addressline2": "- Behind Trust Medical Shop 1st house in Palm Spring Layout Gubbalala Main Road",
+      "locality": "Doddakallasandra",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560062",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90344 cross 2nd main road ",
+      "addressline2": "NGEF Layout Mallathahalli banglore",
+      "locality": "Bnagalore Viswavidalaya",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560056",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90359 2floor 2nd cross N. g. compound anjaneya temple Street",
+      "addressline2": "yediyur M M breged k.R roda 2 1st A Main Rd",
+      "locality": "Bolare",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560082",
+      "geocodes": "34.282935,-93.154379"
+    },
+    {
+      "addressline1": "#T-90360 block Laa moon stone apartment Electronic ",
+      "addressline2": "city phase 1 near Ecity police station",
+      "locality": "Bommasandra Industrial Estate",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560099",
+      "geocodes": "13.08308,77.54619"
+    },
+    {
+      "addressline1": "#T-90366 Gangadareshwara nilaya KCHS Layout buvaneshwari nagar",
+      "addressline2": "kenchanpura cross beside sundirect office road",
+      "locality": "Bnagalore Viswavidalaya",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560056",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90371 South Block Parisaraa Flying view",
+      "addressline2": "Apartments Jakkur Main Road banglore",
+      "locality": "Amruthahalli",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560092",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90373 floor Kempegoda layout Rajagopalanagar peenya 2nd ",
+      "addressline2": "stage Near Jyothi Nursing Home",
+      "locality": "Laggere",
+      "city": "Bangalore West",
+      "state": "Karnataka",
+      "pincode": "560058",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90415 Ranganatha swamy nilaya Balaji layout ",
+      "addressline2": "Agara Horamavu Balaji layout Chrysalis high school",
+      "locality": "Doorvaninagar",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560016",
+      "geocodes": "13.08308,77.54619"
+    },
+    {
+      "addressline1": "#T-90418 floor SMD appartment aecs layout ",
+      "addressline2": "singasandra near hosaroad corporation atm",
+      "locality": "Electronics City",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560100",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90427 First floor 8th Main BEML Layout",
+      "addressline2": "5th Stage Rajarajeshwari Nagar Near prakruthi park",
+      "locality": "Chudenapura",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560060",
+      "geocodes": "12.912405,77.581023"
+    },
+    {
+      "addressline1": "#T-90441 srikanta nilaya shopping street subbaiah ",
+      "addressline2": "layout near sri rama convention hall",
+      "locality": "Bangalore ",
+      "city": "Bangalore GPO",
+      "state": "Karnataka",
+      "pincode": "560001",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90455 main NIRMALA NILAYA JJ layout",
+      "addressline2": "Nagadevanahalli opp to HP Petrol bunk road",
+      "locality": "Bnagalore Viswavidalaya",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560056",
+      "geocodes": "12.915107,77.562489"
+    },
+    {
+      "addressline1": "#T-90456 Elegant elite apartment Rangaswamappa road Krishna ",
+      "addressline2": "garden layout near global teach park",
+      "locality": "Rv Niketan",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560059",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90507 A Block 9th Phase Jp Nagar #14",
+      "addressline2": "7th A Block 9th Phase Jp Nagar",
+      "locality": "Bannerghatta Road",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560076",
+      "geocodes": "13.1012,77.596313"
+    },
+    {
+      "addressline1": "#T-90512 cross Balaji layout ",
+      "addressline2": "Vaajarahalli near Kanakapura road",
+      "locality": "J P Nagar",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560078",
+      "geocodes": "-10.83333,165.78333"
+    },
+    {
+      "addressline1": "#T-90513 Raghavendra Colony 1st stage",
+      "addressline2": "Patel Nagar Opposite to Tirumala Apartment",
+      "locality": "J P Nagar",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560078",
+      "geocodes": "12.930642,77.579462"
+    },
+    {
+      "addressline1": "#T-90514 Shiva Smrithi 2nd block BSK ",
+      "addressline2": "6th stage kariyana palya Near Vaishnavi bar",
+      "locality": "Doddakallasandra",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560062",
+      "geocodes": "42.663289,-71.190132"
+    },
+    {
+      "addressline1": "#T-90533 SUJA 5th Main ITI layout ",
+      "addressline2": "Mallathalli Nagarbhavi Near Lake Lamp appartment",
+      "locality": "Bnagalore Viswavidalaya",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560056",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90555 c/o vijaykumar kogilu road kattigenahalli ",
+      "addressline2": "beeshma circle or viven resid",
+      "locality": "Attur",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560064",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90558 main 4th cross railwaynagar kengeri bengalooru 560060 2nd main",
+      "addressline2": "4th cross railwaynagar kengeri bengalooru 560060 Aqua green apartment s",
+      "locality": "Chudenapura",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560060",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90580 Sacchi Ground Floor 1st Main",
+      "addressline2": "Jagajyothi Layout Nagadevanahalli bengalooru Near Just Bake",
+      "locality": "Bnagalore Viswavidalaya",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560056",
+      "geocodes": "12.941193,77.583916"
+    },
+    {
+      "addressline1": "#T-90590 Lakshmi layout arekere mico ",
+      "addressline2": "mico layout bannerghatta road",
+      "locality": "J P Nagar",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560078",
+      "geocodes": "13.04278,77.512965"
+    },
+    {
+      "addressline1": "#T-90602 floor 5th cross BDA layout ",
+      "addressline2": "sarathy nagara near vinayaka theater",
+      "locality": "Bannerghatta Road",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560076",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90607 46 1st Cross Govinayakana Halli Next to",
+      "addressline2": "Dwaraka Grand Hotel Kumaraswa 1 st cross Dwaraka Grand Hotel",
+      "locality": "Ashoknagar (Bangalore)",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560050",
+      "geocodes": "12.879558,77.638057"
+    },
+    {
+      "addressline1": "#T-90609 Manjunath building 3rd main road",
+      "addressline2": "muneshware layout vaderhalli ms palaya",
+      "locality": "Doddakallasandra",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560062",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90619 SLV Enclave Ashwath nagar Thanisandra",
+      "addressline2": "main road next to shell petrol bunk",
+      "locality": "Arabic College",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560045",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90621 floor 2nd cross D",
+      "addressline2": "Block AESC Layout Next to Nisarga park",
+      "locality": "Devasandra",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560036",
+      "geocodes": "13.08308,77.54619"
+    },
+    {
+      "addressline1": "#T-90622 Arise Crosswoods Raghavanapalya Near Jambu",
+      "addressline2": "Savari Dinne JP Nagar 8th Phase",
+      "locality": "Bannerghatta Road",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560076",
+      "geocodes": "13.067003,77.504738"
+    },
+    {
+      "addressline1": "#T-90624 Renuka devi nilaya chamundeshwari nagar nynapanahalli main road ",
+      "addressline2": "begur chamundeshwari nagar near stone park opposite Ramdev medicals",
+      "locality": "Begur",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560068",
+      "geocodes": "12.980754,77.607343"
+    },
+    {
+      "addressline1": "#T-90627 Bhuvi Nilaya 2nd Block ",
+      "addressline2": "Bsk 6th stage BDA layout Channasandra",
+      "locality": "Begur",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560068",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90633 cross Manjunathnagar mangadi ",
+      "addressline2": "road Shilpashree vastralaya",
+      "locality": "Tyagrajnagar",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560028",
+      "geocodes": "12.993109,77.579458"
+    },
+    {
+      "addressline1": "#T-90641 cross 2 nd main road Abrar masjid R k hegdenagar #1227 8th ",
+      "addressline2": "cross 2 nd main road Abrar masjid R k hegdenagar Abrar Masjid",
+      "locality": "Arabic College",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560045",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90647 floor 7th cross 1st Block vishwapriya layout",
+      "addressline2": "Begur main road hongasandra near axis bank ATM",
+      "locality": "Chudenapura",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560060",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90651 feet road B S K 1st STAGE S ",
+      "addressline2": "B M Colony next to sam tours n travels",
+      "locality": "Ashoknagar (Bangalore)",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560050",
+      "geocodes": "12.968292,77.749419"
+    },
+    {
+      "addressline1": "#T-90652 main 2nd cross gangappa block Ganganagar ",
+      "addressline2": "rt Nagar post Muneshwara temple lane",
+      "locality": "Carmelram",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560035",
+      "geocodes": "12.993109,77.579458"
+    },
+    {
+      "addressline1": "#T-90664 main Kogilu yelahanka ",
+      "addressline2": "poojamma temple road water tank",
+      "locality": "Anandnagar (Bangalore)",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560024",
+      "geocodes": "13.033607,77.52733"
+    },
+    {
+      "addressline1": "#T-90666 2nd main 2nd cross ayyappanagar opp road of Topmart K R puram 2nd",
+      "addressline2": "main 2nd cross ayyappanagar opp road of Topmart K R puram near lakshmivenkateshwara stor",
+      "locality": "Agara",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560034",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90667 Main Road 38th A Cross 8th Block",
+      "addressline2": "Jayanagar Bangalore - 560082 38th A CROSS NATIONAL COLLEGE",
+      "locality": "Bolare",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560082",
+      "geocodes": "13.064979,77.631672"
+    },
+    {
+      "addressline1": "#T-90668 floor DS Max Starwood Apartment 5th ",
+      "addressline2": "cross Somshettihalli near Lake V Garden",
+      "locality": "Bommasandra Industrial Estate",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560099",
+      "geocodes": "13.08308,77.54619"
+    },
+    {
+      "addressline1": "#T-90673 shubayoga layout anagalpura",
+      "addressline2": "behind sai baba temple",
+      "locality": "Doddagubbi",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560077",
+      "geocodes": "12.97526,77.604895"
+    },
+    {
+      "addressline1": "#T-90678 Marasandra rnDoddaballapura main road Bangalore",
+      "addressline2": "North Near provident welworth city ",
+      "locality": "Attur",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560064",
+      "geocodes": "14.882195,75.57454"
+    },
+    {
+      "addressline1": "#T-90682 main road 2nd cross kumvempu ",
+      "addressline2": "circle chandranagar kamalanagat near shanimahathma temple",
+      "locality": "Domlur",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560071",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90685 venus enclave 301 flat 4th floor 2nd main ",
+      "addressline2": "2nd cross muneshwara layout kodichikkanalli jhanavi back gate 3",
+      "locality": "Begur",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560068",
+      "geocodes": "12.96557,77.60625"
+    },
+    {
+      "addressline1": "#T-90707 Smriti Nilaya 2nd block JP Nagar ",
+      "addressline2": "8th Phase Bangalore near Platinum Lifestyle Apartments",
+      "locality": "Bannerghatta Road",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560076",
+      "geocodes": "12.850565,77.646694"
+    },
+    {
+      "addressline1": "#T-90711 Viven Trails",
+      "addressline2": "Kattigenahalli Yehlanka",
+      "locality": "Attur",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560064",
+      "geocodes": "13.08308,77.54619"
+    },
+    {
+      "addressline1": "#T-90716 floor 16th main 9th cross behind holy",
+      "addressline2": "saint school Bank colony bsk 3rd stage Manjunatha temple road",
+      "locality": "H.K.P. Road",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560051",
+      "geocodes": "12.860401,77.604953"
+    },
+    {
+      "addressline1": "#T-90722 main D block b cross rajajinagar 2nd stage #1757/4 1st",
+      "addressline2": "main D block b cross rajajinagar 2nd stage Sanjeev scan road ",
+      "locality": "Industrial Estate (Bangalore)",
+      "city": "Bangalore West",
+      "state": "Karnataka",
+      "pincode": "560010",
+      "geocodes": "22.735341,75.885347"
+    },
+    {
+      "addressline1": "#T-90728 Fern",
+      "addressline2": "city Mahadevpura",
+      "locality": "Hoodi",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560048",
+      "geocodes": "14.66667,75.83333"
+    },
+    {
+      "addressline1": "#T-90731 block Mahaveer marvels",
+      "addressline2": "apartments Kodichikkanahalli Bangalore - 560068",
+      "locality": "Begur",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560068",
+      "geocodes": "13.08308,77.54619"
+    },
+    {
+      "addressline1": "#T-90741 cross 5th main dwaraka nagar ",
+      "addressline2": "bagalur cross IAF post yelahnka",
+      "locality": "A F Station Yelahanka",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560063",
+      "geocodes": "28.65649,77.183733"
+    },
+    {
+      "addressline1": "#T-90745 floor 9th cross 11th main",
+      "addressline2": "Road Vasanth Nagar vasanth nagar near SBI ATM",
+      "locality": "Bangalore ",
+      "city": "Bangalore GPO",
+      "state": "Karnataka",
+      "pincode": "560001",
+      "geocodes": "19.107428,72.860446"
+    },
+    {
+      "addressline1": "#T-90747 floor 11 th c",
+      "addressline2": "cross padrayanapura corner tea stall",
+      "locality": "Tyagrajnagar",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560028",
+      "geocodes": "17.83333,79.08333"
+    },
+    {
+      "addressline1": "#T-90753 Taralabalu Enclave Near Yelahanka police station Yelahanka Bangalore 560061 ",
+      "addressline2": "Taralabalu Enclave Near yelahanka police station Yelahanka Opposite RMZ Galleria",
+      "locality": "Chikkalasandra",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560061",
+      "geocodes": "19.208629,72.992534"
+    },
+    {
+      "addressline1": "#T-90756 1cross belahalli near",
+      "addressline2": "urdu government school.yelahanka post",
+      "locality": "Attur",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560064",
+      "geocodes": "19.170314,72.851577"
+    },
+    {
+      "addressline1": "#T-90765 cross Bhuvaneshwri nagar kempapura Bangalore ",
+      "addressline2": "560024 Bhuvaneshwri nagar kempapura reliance fresh",
+      "locality": "Anandnagar (Bangalore)",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560024",
+      "geocodes": "17.308612,78.412148"
+    },
+    {
+      "addressline1": "#T-90769 the edge apartment serenity layout ",
+      "addressline2": "Sarjapur main road near Sarjapur firestation",
+      "locality": "Bellandur",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560103",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "#T-90774 basaveshwara nilaya #247 Kirloskar layout 1st main road ",
+      "addressline2": "Hesaraghatta main road Bangalore Near sapthagiri engineering college Bangalore",
+      "locality": "A F Station Yelahanka",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560063",
+      "geocodes": "17.83333,79.08333"
+    },
+    {
+      "addressline1": "#T-90778 Sai Chavadi 2nd Cross Singapura Main Road Opp Axis Bank ",
+      "addressline2": "ATM Singapura Main Road MS Palya Vidyaranyapura NP Store",
+      "locality": "Bangalore Dist Offices Bldg",
+      "city": "Bangalore West",
+      "state": "Karnataka",
+      "pincode": "560009",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "#T-90797 floor Sripada 4th main 3rd ",
+      "addressline2": "stage BEML layout Rajarajeshwari Nagar",
+      "locality": "Bommasandra Industrial Estate",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560099",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "#T-90809 main road shripura kumarapark west malleswaram Bangalore _24 kumarapark ",
+      "addressline2": "west Bangalore 2sd main road Sripura 2sd main road",
+      "locality": "Anandnagar (Bangalore)",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560024",
+      "geocodes": "17.372369,78.445179"
+    },
+    {
+      "addressline1": "#T-90811 cross 1st main Baba ",
+      "addressline2": "Nagar near bagalur cross",
+      "locality": "Attur",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560064",
+      "geocodes": "18.519479,73.870703"
+    },
+    {
+      "addressline1": "#T-90813 datta krupa Nisarga ",
+      "addressline2": "layout bannergatta post",
+      "locality": "Bannerghatta",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560083",
+      "geocodes": "17.508168,78.309478"
+    },
+    {
+      "addressline1": "#T-90828 cross pashupathi nilaya p&t layout rachenalli main",
+      "addressline2": "road manyata back gate5 opp road near soumya sarovar apartment",
+      "locality": "Arabic College",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560045",
+      "geocodes": "25.099515,55.177419"
+    },
+    {
+      "addressline1": "#T-90835 main road shripura kumarapark west malleswaram Bangalore _24 kumarapark ",
+      "addressline2": "west Bangalore 2sd main road Sripura 2sd main road",
+      "locality": "Anandnagar (Bangalore)",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560024",
+      "geocodes": "19.07283,72.88261"
+    },
+    {
+      "addressline1": "#T-90849 bcc layout water tank near masala mane 138 bcc layout ",
+      "addressline2": "water tank near masala #138 Bcc layout water tank ne",
+      "locality": "Basavanagudi",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560004",
+      "geocodes": "28.658516,77.323653"
+    },
+    {
+      "addressline1": "#T-90866 3rd cross NRI lyt Nandi Riches ",
+      "addressline2": "Garden kalkere Sri Sundara Anjenaya Swamy Tmp",
+      "locality": "Banaswadi",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560043",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "#T-90869 cross kormangalaa 2nd block extension ",
+      "addressline2": "Madiwala Post Opp Manisha mansion",
+      "locality": "Begur",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560068",
+      "geocodes": "17.37122,78.57024"
+    },
+    {
+      "addressline1": "#T-90887 cross 1st main MS Ramaiah north ",
+      "addressline2": "city Thanisandra main road behind element mall",
+      "locality": "Arabic College",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560045",
+      "geocodes": "17.478118,78.320183"
+    },
+    {
+      "addressline1": "#T-90891 ambedkarnagar. 2nd cross kattegenahalli. bagalur",
+      "addressline2": "cross near five star chicken shop",
+      "locality": "A F Station Yelahanka",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560063",
+      "geocodes": "19.07283,72.88261"
+    },
+    {
+      "addressline1": "#T-90893 Floor 22 nd cross MCECHS layout phase",
+      "addressline2": "1 dr shivraram karanth nagar Laxmi venkateswara swamy templ",
+      "locality": "Attur",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560064",
+      "geocodes": "17.416032,78.416816"
+    },
+    {
+      "addressline1": "#T-90894 kanaka kuteera behind Canara bank ",
+      "addressline2": "Madiwala Near TVS showroom",
+      "locality": "Begur",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560068",
+      "geocodes": "19.006255,73.150267"
+    },
+    {
+      "addressline1": "#T-90895 first floor Geetha Nivas",
+      "addressline2": "2nd Main 2nd cross Dwaraka Nagar",
+      "locality": "A F Station Yelahanka",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560063",
+      "geocodes": "17.420318,78.407376"
+    },
+    {
+      "addressline1": "#T-90897 ground flour 3rd cross manorayan palya sultanpalya main road ",
+      "addressline2": "RT nagar bangalore opposite to zoya fashion boutiqe",
+      "locality": "Malleswaram",
+      "city": "Bangalore West",
+      "state": "Karnataka",
+      "pincode": "560003",
+      "geocodes": "28.715111,77.116034"
+    },
+    {
+      "addressline1": "#T-90911 block Suvarna ",
+      "addressline2": "Residency Raysandra village",
+      "locality": "Electronics City",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560100",
+      "geocodes": "17.83333,79.08333"
+    },
+    {
+      "addressline1": "#T-90920 2cross muneshwara nagara laggerr ",
+      "addressline2": "Laggere Main Road Near charch road",
+      "locality": "Laggere",
+      "city": "Bangalore West",
+      "state": "Karnataka",
+      "pincode": "560058",
+      "geocodes": "18.51957,73.85535"
+    },
+    {
+      "addressline1": "#T-90925 floor 4th cross varaha",
+      "addressline2": "layout kattigenahalli Bangalore More supermarket",
+      "locality": "Attur",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560064",
+      "geocodes": "22.687912,75.860473"
+    },
+    {
+      "addressline1": "#T-90927 ( Left first building opp Laya world of",
+      "addressline2": "music ) 4th Main Vinayakanagar opposite Baby Moon shop",
+      "locality": "A F Station Yelahanka",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560063",
+      "geocodes": "19.07283,72.88261"
+    },
+    {
+      "addressline1": "(Ghrakul Area)Shree Vighnaharta Co -Operative housing society Building no. ",
+      "addressline2": "A-A31883 vignaharta co operative housing society Gharkul area",
+      "locality": "Karvenagar",
+      "city": "Pune City West",
+      "state": "Maharashtra",
+      "pincode": "411052",
+      "geocodes": "19.131577,72.891418"
+    },
+    {
+      "addressline1": "Garvebhavipalya Laxmi layout ",
+      "addressline2": "T-90396 cross Dedend Banglore",
+      "locality": "Chandapura",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560081",
+      "geocodes": "19.19704,72.96355"
+    },
+    {
+      "addressline1": "00MT09405 Manali Apartment Shivaji nagar",
+      "addressline2": "waldhuni kalyan waldhuni Auto stand",
+      "locality": "Kalyan City",
+      "city": "Thane Central",
+      "state": "Maharashtra",
+      "pincode": "421301",
+      "geocodes": "19.19704,72.96355"
+    },
+    {
+      "addressline1": "00T-90552 SLV NIVAS ecc road",
+      "addressline2": "Nallurhalli Whitefield deans school",
+      "locality": "J P Nagar",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560078",
+      "geocodes": "18.51957,73.85535"
+    },
+    {
+      "addressline1": "04/B-MT09402 Shree Siddhivinayak CHS Juinagar ",
+      "addressline2": "Sector 24 Veena Restaurant",
+      "locality": "Darave",
+      "city": "New Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400706",
+      "geocodes": "19.054483,72.82713"
+    },
+    {
+      "addressline1": "0T-90861 navodaya layout bbmp ward no 179",
+      "addressline2": "jp nagar 1st phase near banashankari temple",
+      "locality": "B Sk II Stage",
+      "city": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560070",
+      "geocodes": "17.83333,79.08333"
+    },
+    {
+      "addressline1": "1/4 kirti nagar industrial area near wed lock banquet ",
+      "addressline2": "near shiv naresh showroom near old petrol pump New",
+      "locality": "Anand Parbat",
+      "city": "New Delhi Central",
+      "state": "Delhi",
+      "pincode": "110005",
+      "geocodes": "13.08308,77.54619"
+    },
+    {
+      "addressline1": "1/8 telec society plot no 30 sector 17 vashi navi ",
+      "addressline2": "mumbai opposite golden punjab sector 17 golden punjab restaunt",
+      "locality": "Darave",
+      "city": "New Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400706",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "1_2_M02927 floor street no 2, kakathiya",
+      "addressline2": "nagar, hubsiguda harithavanam, beside vedik livi",
+      "locality": "Kukatpally",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500072",
+      "geocodes": "19.088848,72.847972"
+    },
+    {
+      "addressline1": "1_6_M02925 friends colony, 1stfloor",
+      "addressline2": "ramnagar, fishmarket, hyderabad.",
+      "locality": "Ambernagar",
+      "city": "Hyderabad South East",
+      "state": "Telangana",
+      "pincode": "500044",
+      "geocodes": "17.83333,79.08333"
+    },
+    {
+      "addressline1": "10/10 Ellora complex Ghanshyam Gupte road Near",
+      "addressline2": "Gomantak Bakery Dombivali west NEAR GOMANTAK BAKERY",
+      "locality": "Dombivali",
+      "city": "Thane Central",
+      "state": "Maharashtra",
+      "pincode": "421201",
+      "geocodes": "18.51957,73.85535"
+    },
+    {
+      "addressline1": "10/2 laly mahal .jakkur cross . opposite to jakkur flying",
+      "addressline2": "school. Bytrayanapura . jakkur...opp to jakkur flying school.next to stanz",
+      "locality": "Amruthahalli",
+      "city": "Bangalore East",
+      "state": "Karnataka",
+      "pincode": "560092",
+      "geocodes": "17.83333,79.08333"
+    },
+    {
+      "addressline1": "10-4-13/M02889/A/11 masab tank owasi pura",
+      "addressline2": "opp moral marry hogh school",
+      "locality": "A.Gs Office",
+      "city": "Hyderabad City",
+      "state": "Telangana",
+      "pincode": "500004",
+      "geocodes": "19.131577,72.891418"
+    },
+    {
+      "addressline1": "12/3 Punjabi Society Near Shreyas Cinema",
+      "addressline2": "Sanghani Estate Ghatkopar West Mumbai",
+      "city": "Hyderabad City",
+      "pincode": "ashtra",
+      "geocodes": "19.21109,72.864511"
+    },
+    {
+      "addressline1": "12-13 rajendra nagar Suleman nagar daimond city colony Ssr residency 1flor ",
+      "addressline2": "piller no 244 khaja hotel Piller no 244 khaja hotel",
+      "locality": "Gaganpahad",
+      "city": "Hyderabad South East",
+      "state": "Telangana",
+      "pincode": "500052",
+      "geocodes": "17.450451,78.44806"
+    },
+    {
+      "addressline1": "121A/M02852 floor, western hills, opp:jntu",
+      "addressline2": "western hills opposite Poornima residency",
+      "locality": "Kukatpally",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500072",
+      "geocodes": "17.83333,79.08333"
+    },
+    {
+      "addressline1": "12-2-M0284822/b/8 m.s bright recidancy 401 Mehdipatnam pillar ",
+      "addressline2": "no 23 beside pulla read Mehdipatnam",
+      "locality": "Gandhi Bhawan (Hyderabad)",
+      "city": "Hyderabad City",
+      "state": "Telangana",
+      "pincode": "500001",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "13/2 Block B, Madhu Park Ridge Apartments,",
+      "addressline2": "Hashim Nagar, Langar Houz, Near Tippukhan Bridge",
+      "locality": "Ibrahim Bagh Lines",
+      "city": "Hyderabad City",
+      "state": "Telangana",
+      "pincode": "500031",
+      "geocodes": "17.450451,78.44806"
+    },
+    {
+      "addressline1": "13_5_431/A/M02832 Mehboob colony Jhirra",
+      "addressline2": "Asif Nagar Rabiya Masjid",
+      "locality": "Suchitra Junction",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500067",
+      "geocodes": "38.910531,-3.842134"
+    },
+    {
+      "addressline1": "131a/M02824 Khaja house road",
+      "addressline2": "no 6, samthanagar, kukatpally",
+      "locality": "Kukatpally",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500072",
+      "geocodes": "17.448683,78.44469"
+    },
+    {
+      "addressline1": "13-5-431/A/M02819 mahaboob",
+      "addressline2": "colony karwan",
+      "locality": "Hindustan Cables Ltd",
+      "city": "Hyderabad South East",
+      "state": "Telangana",
+      "pincode": "500051",
+      "geocodes": "19.07283,72.88261"
+    },
+    {
+      "addressline1": "13-6-434/c/M02816 Maruthinagar Maruthi Nagar ring ",
+      "addressline2": "road Pillar no :84",
+      "locality": "Appa Himayathsagar",
+      "city": "Hyderabad City",
+      "state": "Telangana",
+      "pincode": "500008",
+      "geocodes": "17.83333,79.08333"
+    },
+    {
+      "addressline1": "14/2 Sector 27 A coromant housing society ",
+      "addressline2": "Nigdi Pradhikaran Near Gajanan Maharaj Mandir",
+      "locality": "Khadakwasla R.S.",
+      "city": "Pune City West",
+      "state": "Maharashtra",
+      "pincode": "411024",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "1-46/4/2/P-M02797 floor, Road no: 8, New ",
+      "addressline2": "Shankar Nagar, Ashok Nagar, BHEL",
+      "locality": "Chandanagar",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500050",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "15-29-682ews M02785 floor (pent house) road no 3, phase 1",
+      "addressline2": "and 2 kphb colony kukatpally near surabhi make up and costu",
+      "locality": "Jntu Kukat Pally",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500085",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "155/2578/groupDH102628 Tagor nagar tagor Nagar police line ",
+      "addressline2": "Vikhroli East near Gandhi kirana store",
+      "locality": "BARC",
+      "city": "Mumbai  North East",
+      "state": "Maharashtra",
+      "pincode": "400085",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "16#T-90734 cross 3rd block Iic colony park",
+      "addressline2": "Jayanagar Bangalore Jayanagar 3rdblock halo unisex salon",
+      "locality": "Gayathrinagar",
+      "city": "Bangalore West",
+      "state": "Karnataka",
+      "pincode": "560021",
+      "geocodes": "17.409539,78.435236"
+    },
+    {
+      "addressline1": "17-1-182/MM02766 madanapet MCH",
+      "addressline2": "colonyHyderabad old eidgha",
+      "locality": "Gandhi Bhawan (Hyderabad)",
+      "city": "Hyderabad City",
+      "state": "Telangana",
+      "pincode": "500001",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "17-1-382/SN/M02764 Srinivasa nagar colony, champapet",
+      "addressline2": "Near JS REDDY Swimming pool",
+      "locality": "Jillellaguda",
+      "city": "Hyderabad South East",
+      "state": "Telangana",
+      "pincode": "500079",
+      "geocodes": "13.700769,80.029838"
+    },
+    {
+      "addressline1": "1-72/5/NS, AM02760 Niharika Signature, Beside ",
+      "addressline2": "NASR boys school, Gachibowli",
+      "locality": "Cyberabad",
+      "city": "Hyderabad City",
+      "state": "Telangana",
+      "pincode": "500081",
+      "geocodes": "17.390617,78.470769"
+    },
+    {
+      "addressline1": "17-2-1210/A/M02759 floor yakutpura, jawaharpura near islamia ",
+      "addressline2": "college islamia college, ekkhana masjid",
+      "locality": "Nehrunagar (Hyderabad)",
+      "city": "Secunderabad",
+      "state": "Telangana",
+      "pincode": "500026",
+      "geocodes": "17.390617,78.470769"
+    }
+  ]
+}
